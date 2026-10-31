@@ -4,4 +4,5 @@ Admin dashboard development started.
 Notification feature development started.
 Git clone practice completed successfully.
 Git clone practice completed successfully.
+Profile page development started.
 
